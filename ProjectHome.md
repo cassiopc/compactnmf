@@ -1,0 +1,1 @@
+This package provides a fast nonnegative matrix factorization (NMF) implementation in C++, as well as its wrapper for the R language. It also provides a very accurate way to compact matrices before running NMF in order to speed up computation and even achive better overall accuracy. This compaction is essential when matrices have thousands of rows by many thousands of columns.
